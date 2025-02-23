@@ -1,17 +1,105 @@
 # RideIT Driver Engagement Analysis 🚖
 
-This project analyzes ride-sharing driver engagement using SQL-based metrics and data visualization.
+SQL-based analysis of driver engagement metrics and performance patterns for a multi-service mobility company.
 
-## 📊 Project Overview
-- **Data Source:** RideIT mobility company
-- **Tools Used:** SQL, Excel, Power BI
-- **Key Metrics:** 
-  - Driver retention rate
-  - Cancellation rate
-  - Utilization rate
-  - Performance analysis
+## 🎯 Project Overview
+- **Business Problem:** Analyze driver engagement patterns and identify improvement opportunities
+- **Data Source:** RideIT drivers and activity datasets
+- **Tools Used:** SQL (T-SQL), Database Management
+- **Analysis Focus:** Driver engagement metrics and performance segmentation
 
-## 📁 Folder Structure
-- Source data/ → Contains result datasets.
-- scripts/ → SQL scripts for data analysis.
-- documentation/ → Project report and analysis summary.
+## 📊 Key Metrics Analyzed
+- **Driver Retention Rate:** Monthly driver retention patterns
+- **Utilization Rate:** Platform efficiency and booking acceptance
+- **Cancellation Analysis:** Service quality impact
+- **Performance Segments:** Driver categorization based on ratings and activity
+
+## 📁 Project Structure
+- **Scripts/** → Analysis queries and data cleaning scripts
+- **Source data/** → Source datasets (drivers and activity data)
+- **Documentation/** → Data dictionary and documentation
+
+## 💡 Key Features
+- Comprehensive data quality assessment
+- Driver performance segmentation
+- Engagement metric calculations
+- Geographic distribution analysis
+- Advanced SQL implementations using CTEs and window functions
+
+## 📈 Business Value
+- Driver satisfaction insights
+- Platform efficiency metrics
+- Service quality indicators
+- Performance-based segmentation
+- Data-driven recommendations
+
+## 🔍 Data Sources
+- **Rideit_drivers:** Demographics, ratings, and service types
+- **Rideit_drivers_activity:** Daily operations and booking metrics
+
+## 🛠️ Setup
+```sql
+-- Database creation
+CREATE DATABASE rideit;
+USE rideit;
+
+-- Run analysis queries
+source sql/rideit.sql
+```
+
+## 👤 Author
+Imran Bijnemulla
+- GitHub: [@Imran2708](https://github.com/Imran2708)
+- LinkedIn: [Your Profile](# RideIT Driver Engagement Analysis 🚖
+
+SQL-based analysis of driver engagement metrics and performance patterns for a multi-service mobility company.
+
+## 🎯 Project Overview
+- **Business Problem:** Analyze driver engagement patterns and identify improvement opportunities
+- **Data Source:** RideIT drivers and activity datasets
+- **Tools Used:** SQL (T-SQL), Database Management
+- **Analysis Focus:** Driver engagement metrics and performance segmentation
+
+## 📊 Key Metrics Analyzed
+- **Driver Retention Rate:** Monthly driver retention patterns
+- **Utilization Rate:** Platform efficiency and booking acceptance
+- **Cancellation Analysis:** Service quality impact
+- **Performance Segments:** Driver categorization based on ratings and activity
+
+## 📁 Project Structure
+- **sql/** → Analysis queries and data cleaning scripts
+- **data/** → Source datasets (drivers and activity data)
+- **docs/** → Data dictionary and documentation
+
+## 💡 Key Features
+- Comprehensive data quality assessment
+- Driver performance segmentation
+- Engagement metric calculations
+- Geographic distribution analysis
+- Advanced SQL implementations using CTEs and window functions
+
+## 📈 Business Value
+- Driver satisfaction insights
+- Platform efficiency metrics
+- Service quality indicators
+- Performance-based segmentation
+- Data-driven recommendations
+
+## 🔍 Data Sources
+- **Rideit_drivers:** Demographics, ratings, and service types
+- **Rideit_drivers_activity:** Daily operations and booking metrics
+
+## 🛠️ Setup
+```sql
+-- Database creation
+CREATE DATABASE rideit;
+USE rideit;
+
+-- Run analysis queries
+source sql/rideit.sql
+```
+
+## 👤 Author
+[Your Name]
+- GitHub: [@yourusername](https://github.com/yourusername)
+- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile))
