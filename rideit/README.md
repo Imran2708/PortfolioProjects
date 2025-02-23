@@ -102,4 +102,4 @@ source sql/rideit.sql
 ## 👤 Author
 [Imran Bijnemulla]
 - GitHub: [@Imran2708](https://github.com/Imran2708)
-- LinkedIn: [Imran](www.linkedin.com/in/imran-b-18601717b)
+- LinkedIn: [Imran]((https://www.linkedin.com/in/imran-b-18601717b/))
