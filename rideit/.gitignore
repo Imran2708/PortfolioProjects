@@ -1,0 +1,7 @@
+#environment files
+.venv/
+Source Data/.venv/
+metrics/
+*.png
+*.pbix
+*.ipynb
