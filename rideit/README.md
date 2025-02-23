@@ -100,6 +100,6 @@ source sql/rideit.sql
 ```
 
 ## 👤 Author
-[Your Name]
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile))
+[Imran Bijnemulla]
+- GitHub: [@Imran2708](https://github.com/Imran2708)
+- LinkedIn: [Imran](www.linkedin.com/in/imran-b-18601717b)
