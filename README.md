@@ -4,8 +4,8 @@
 This repository showcases my **hands-on data analytics projects**, covering **real-world business problems** and demonstrating my skills in **Python, SQL, Excel, and Power BI**. Each project includes **detailed analysis, insights, and business recommendations** based on data-driven decision-making.  
 
 ## 📂 **Projects Included**  
-1. **RideIt (Previously Added)** – Analysis of ride-sharing data to understand customer behavior and operational efficiency.  
-2. **Credit Card Customer Churn (Newly Added)** – Analyzing customer churn patterns in a banking dataset to identify key risk factors and retention strategies.  
+1. **RideIt** – Analysis of ride-sharing data to understand customer behavior and identify which factors are associated with better engagement.  
+2. **Credit Card Customer Churn** – Analyzing customer churn patterns in a banking dataset to identify key risk factors and retention strategies.  
 
 ## 🛠️ **Skills & Tools Demonstrated**  
 ✔ **Data Cleaning & Preprocessing** (Python: pandas, numpy)  
