@@ -8,7 +8,7 @@
 credit-card-customer-churn/
 │- Credit Card Customer Churn Analysis Report (Detailed analysis & findings)
 │- BankChurners.csv (Dataset used for analysis)
-│- Capstone Project 2 - Credit Card Customer Churn (Project documentation)
+│- Credit Card Customer Churn (Project documentation)
 │- main.py (Python script for data analysis)
 │- README.md (Project description, approach, and key insights)
 ```
